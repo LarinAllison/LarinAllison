@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LarinAllison
-- 👀 I’m interested in blockchain for commodity trading and contract integrity
+- 👀 I’m interested building web applications
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with my daughter
 - 📫 How to reach me larinx@gmail.com
